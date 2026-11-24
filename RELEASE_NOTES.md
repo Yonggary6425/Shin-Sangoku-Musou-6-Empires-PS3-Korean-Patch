@@ -11,7 +11,7 @@
 | `SSM6_Empires_KOR_Patch_v1.0.zip` (일반판) | 35.5 MB | `965ff170a6a0870fbd56e5d803488b9edcd58386a18ecaeacda4d22ab41c836b` |
 | `SSM6_Empires_KOR_Patch_v1.0_xdelta.zip` (xdelta판) | 35.3 MB | `b364d2d39c72cb1b2b6b08d1b316ccc94ccaff9cffc2c6c68e697b4bfd211dd7` |
 
-- 일반판과 xdelta판은 결과가 똑같습니다. xdelta판은 원본과의 차이만 담아 크기가 작습니다.
+- 일반판과 xdelta판은 결과가 똑같습니다. Empires는 그림·압축 리소스가 통째로 바뀌어 두 판의 크기가 비슷합니다.
 - 압축을 풀고 게임 폴더나 ISO를 `한글패치_적용.bat` 위에 끌어다 놓으면 됩니다. 자세한 방법은 `읽어보기.txt`와 README를 보세요.
 
 ## 한글화 범위
