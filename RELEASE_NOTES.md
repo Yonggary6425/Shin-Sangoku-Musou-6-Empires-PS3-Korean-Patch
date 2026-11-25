@@ -8,7 +8,7 @@
 
 | 파일 | 크기 | SHA-256 |
 |---|---|---|
-| `SSM6_Empires_KOR_Patch_v1.0_xdelta.zip` | 35.3 MB | `b364d2d39c72cb1b2b6b08d1b316ccc94ccaff9cffc2c6c68e697b4bfd211dd7` |
+| `SSM6_Empires_KOR_Patch_v1.0_xdelta.zip` | 35.3 MB | `27488c9706e2177f12cbb9e0c8dec70c343e852ab91f300b1fb36fbcb166059f` |
 
 - 원본과의 차이(xdelta)만 담은 패처입니다. 손대지 않은 일본판 원본이 필요합니다.
 - 압축을 풀고 게임 폴더나 ISO를 `한글패치_적용.bat` 위에 끌어다 놓으면 됩니다. 자세한 방법은 `읽어보기.txt`와 README를 보세요.
